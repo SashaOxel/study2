@@ -82,6 +82,9 @@ strong {
 .bg-green {
 	background: #dae7e9
 }
+.bg-green {
+	border-radius: 13px;
+}
 .form-group label {
 	display: block;
 	font-size: 14px;
